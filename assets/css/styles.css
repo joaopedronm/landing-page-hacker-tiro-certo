@@ -341,7 +341,7 @@ svg {
   display: inline-block;
   background-color: var(--first-color);
   border: 1px solid var(--container-color);
-  padding: 1.2rem 3.5rem;
+  padding: 1.2rem 3.6rem;
   border-radius: .5rem;
   font-size: 1.2rem;
   color: var(--container-color);
